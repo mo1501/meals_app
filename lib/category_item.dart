@@ -15,7 +15,7 @@ class CategoryItem extends StatelessWidget {
       CategoryMealsScreen.routeName,
       arguments: {
         'id': id, 
-      'title': title
+      'title': title,
       },
     );
   }
